@@ -1,4 +1,4 @@
-#Implementation Queue
+*Implementation Stack
 <p>Stack 구현을 위한 기본적인 코드</p>
 
 class Stack {
